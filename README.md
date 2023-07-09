@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">Programming Languages</p>
+<p align="center">Programming Languages</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Frameworks/Libraries & Databases</p>
+<p align="center">Frameworks/Libraries & Databases</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">DevOps and Tools</p>
+<p align="center">DevOps and Tools</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -87,3 +87,4 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
