@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
