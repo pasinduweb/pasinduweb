@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![AWS](https://img.shields.io/badge/-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 <p align="center">Programming Languages</p>
 
