@@ -13,8 +13,9 @@
   ![male-programmer-8928572-7322310](https://github.com/pasinduweb/pasinduweb/assets/78254691/766c3c43-651c-4b92-9472-418111986be7)
 </div>
 
+<div align="center">
 ![male-programmer-8928572-7322310](https://github.com/pasinduweb/pasinduweb/assets/78254691/f88c57d9-a29f-4992-b4ef-018f6f8cd04d)
-
+</div>
 
 ###
 
