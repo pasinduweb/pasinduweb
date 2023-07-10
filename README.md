@@ -40,19 +40,12 @@ Here are some ideas to get you started: -->
 
 <!-- ### 🛠 &nbsp;Tech Stack
 
-![AWS](https://img.shields.io/badge/-05122A?style=flat&logo=amazon-aws)&nbsp;
+![AWS](https://img.shields.io/badge/-05122A?style=flat&logo=amazon-aws)&nbsp; -->
 
-<p align="center">Programming Languages</p> -->
-
-<a href="#" onclick="redirectToFacebook()">
+<a href="https://www.facebook.com/">
   <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws" alt="AWS">
 </a>
 
-<script>
-  function redirectToFacebook() {
-    window.location.href = "https://www.facebook.com/";
-  }
-</script>
 
 <h4 align="left">Programming Languages</h4>
 
