@@ -35,9 +35,17 @@ Here are some ideas to get you started: -->
 </div>
 -->
 
+<!--
 <div align="center">
   <a href="mailto:algopasindu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="FB">
+  </a>
+</div>
+-->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
 
