@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
-      <img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email logo"  />
+      <img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" height="50" alt="email logo"  />
   </a>
 </div>
 
