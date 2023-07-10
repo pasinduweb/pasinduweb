@@ -43,7 +43,7 @@ Here are some ideas to get you started: -->
 </div>
 -->
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
       <img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" height="50" alt="email logo"  />
   </a>
@@ -57,7 +57,7 @@ Here are some ideas to get you started: -->
 
 <br clear="both">
 
-<p align="center">Unleashing creativity through code, I am a hobbyist programmer with a knack for E-commerce and IT. Sharing knowledge and I breathe life into pixels.<br>Welcome to my GitHub profile, where passion meets innovation in every line of code. pasindu web | pasinduweb</p>
+<p align="left">Unleashing creativity through code, I am a hobbyist programmer with a knack for E-commerce and IT. Sharing knowledge and I breathe life into pixels.<br>Welcome to my GitHub profile, where passion meets innovation in every line of code. pasindu web | pasinduweb</p>
 
 ###
 
