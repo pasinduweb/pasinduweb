@@ -43,7 +43,7 @@ Here are some ideas to get you started: -->
 </div>
 -->
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
       <img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" height="50" alt="email logo"  />
   </a>
