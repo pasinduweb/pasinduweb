@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="fun-dog-programmer" height="200">
+  <img src="https://tenor.com/bTtUn.giff" alt="fun-dog-programmer" height="200">
 </div>
 
 
