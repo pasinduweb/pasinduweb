@@ -44,6 +44,16 @@ Here are some ideas to get you started: -->
 
 <p align="center">Programming Languages</p> -->
 
+<a href="#" onclick="redirectToFacebook()">
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws" alt="AWS">
+</a>
+
+<script>
+  function redirectToFacebook() {
+    window.location.href = "https://www.facebook.com/";
+  }
+</script>
+
 <h4 align="left">Programming Languages</h4>
 
 ###
