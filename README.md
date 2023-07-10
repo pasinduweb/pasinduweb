@@ -50,7 +50,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <a href="mailto:algopasindu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmall" alt="FB">
+    <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="FB">
   </a>
 </div>
 
