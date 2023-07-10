@@ -50,7 +50,7 @@ Here are some ideas to get you started: -->
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h2 align="center">Hi There👋</h2>
 
 ###
 
