@@ -44,7 +44,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
-      <img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" height="30" alt="email logo"  />
+      <img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" height="20" alt="email logo"  />
   </a>
 </div>
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started: -->
 
 <h2 align="center">Hi there👋</h2>
 
-###
+
 
 <br clear="both">
 
