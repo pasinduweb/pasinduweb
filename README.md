@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 </div>
 
 ###
-
+<!--
 <div align="center">
   <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -24,7 +24,21 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
-
+-->
+<div align="center">
+  <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="FB">
+  </a>
+  <a href="https://www.youtube.com/@idealbit" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube" alt="FB">
+  </a>
+  <a href="https://www.facebook.com/pasinduweb" target="_blank">
+    <img src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" alt="FB">
+  </a>
+  <a href="https://wa.me/+94762319687" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="FB">
+  </a>
+</div>
 ###
 
 <div align="center">
@@ -50,10 +64,6 @@ Here are some ideas to get you started: -->
 <!-- ### 🛠 &nbsp;Tech Stack
 
 ![AWS](https://img.shields.io/badge/-05122A?style=flat&logo=amazon-aws)&nbsp; -->
-
-<a href="https://www.facebook.com/pasinduweb" target="_blank">
-  <img src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" alt="AWS">
-</a>
 
 
 
