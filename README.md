@@ -39,7 +39,6 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="FB">
   </a>
 </div>
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pasinduweb&"  />
