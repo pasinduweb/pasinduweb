@@ -10,7 +10,7 @@
 
 <br clear="both">
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif"  />
+  ![male-programmer-8928572-7322310](https://github.com/pasinduweb/pasinduweb/assets/78254691/766c3c43-651c-4b92-9472-418111986be7)
 </div>
 
 ###
