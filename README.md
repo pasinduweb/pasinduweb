@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/pasinduweb/pasinduweb/assets/78254691/f88c57d9-a29f-4992-b4ef-018f6f8cd04d" alt="male-programmer" width="200" height="200">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="fun-dog-programmer" width="200" height="200">
 </div>
 
 
