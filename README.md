@@ -53,6 +53,13 @@ Here are some ideas to get you started: -->
 
 <h1 align="center">hey there 👋</h1>
 
+###
+
+<br clear="both">
+
+<p align="center">Unleashing creativity through code, I am a hobbyist programmer with a knack for E-commerce and IT. Sharing knowledge and I breathe life into pixels.<br>Welcome to my GitHub profile, where passion meets innovation in every line of code. pasindu web | pasinduweb</p>
+
+###
 
 <!--
 - 🔭 I’m currently working on ...
