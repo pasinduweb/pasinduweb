@@ -44,7 +44,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
-      <img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" height="20" alt="email logo"  />
+      <img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" height="25" alt="email logo"  />
   </a>
 </div>
 
@@ -153,20 +153,20 @@ Here are some ideas to get you started: -->
 
 ###
 
-<h2 align="center">Connect 😃</h2>
+<h3 align="center">Connect 😃</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pasinduweb/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" height="20" alt="LinkedIn">
   </a>
   <a href="https://www.youtube.com/@idealbit" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube" alt="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube" height="20" alt="YouTube">
   </a>
   <a href="https://www.facebook.com/pasinduweb" target="_blank">
-    <img src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" alt="Facebook">
+    <img src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" height="20" alt="Facebook">
   </a>
   <a href="https://wa.me/+94762319687" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="WhatApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" height="20" alt="WhatApp">
   </a>
 </div>
 
