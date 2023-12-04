@@ -66,9 +66,9 @@
 <br clear="both">
 
 <p align="left">Hello, I'm Pasindu Manaranjana Jayasekara, a self-driven developer who loves turning ideas into reality. With a focus on e-commerce, I enjoy using the latest technologies to create user-friendly and efficient solutions. I've been on an exciting journey of continuous learning and improvement. I'm always excited about exploring new areas in software engineering.
-<br />
+<br /><br />
 Beyond that, I'm interested in sharing my knowledge and experiences with others. I believe in the power of collaboration and community building, where everyone can learn and grow together. If you're interested in tech or sharing insights, let's connect! I'm always open to new opportunities, collaborations, and conversations that can inspire and drive positive changes.
-<br />
+<br /><br />
 Welcome to my GitHub profile. pasindu web, pasinduweb.</p>
 
 ###
