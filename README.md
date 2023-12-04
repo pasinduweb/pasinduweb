@@ -100,7 +100,7 @@
 
 ###
 
-<h4 align="left">Frameworks/Libraries & Databases</h4>
+<h4 align="left">Frameworks</h4>
 
 ###
 
@@ -121,7 +121,7 @@
 
 ###
 
-<h4 align="left">DevOps and Tools</h4>
+<h4 align="left">Other Tools</h4>
 
 ###
 
