@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-<p align="left">Unleashing creativity through code, I am a hobbyist programmer with a knack for E-commerce and IT. Sharing knowledge and I breathe life into pixels.<br>Welcome to my GitHub profile, where passion meets innovation in every line of code. pasindu web | pasinduweb</p>
+<p align="left">I am a hobbyist developer with a knack for e-commerce. I like to share knowledge.<br>Welcome to my GitHub profile. pasindu web | pasinduweb</p>
 
 ###
 
