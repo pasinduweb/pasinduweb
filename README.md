@@ -91,6 +91,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
