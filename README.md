@@ -13,9 +13,7 @@
 
 ###
 
-<h2 align="center">Hey there👋</h2>
-
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <p align="left">I enjoy working with code that runs behind the scenes. Professional time goes into supporting systems and keeping things stable. Outside of that, I love solving real problems by building things that are useful and reliable. A few simple habits help me keep the mind clear.
 <br /><br />
